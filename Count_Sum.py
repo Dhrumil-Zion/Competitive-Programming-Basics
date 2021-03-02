@@ -7,7 +7,7 @@ Explanation: Numbers are 11 and 20
 Input:  n = 2, sum = 5
 Output: 5
 Explanation: Numbers are 14, 23, 32, 41 and 50
-"""
+# """
 
 def processing(n,sum,arr):
     temp = 0
@@ -28,21 +28,17 @@ def processing(n,sum,arr):
 
 def getCount(n,sum):
     arr = [] 
+    ze = ""
     if n == 2:
         arr = range(11,100)
         processing(n,sum,arr)    
-    elif n == 3:
-        arr = range(100,1000)
-        processing(n,sum,arr)    
-    elif n == 4:
-        arr = range(1000,10000)
-        processing(n,sum,arr)    
-    elif n == 5:
-        arr = range(10000,100000)
-        processing(n,sum,arr)        
     else: 
-        print("Enter a valid digit number please")        
-        
+        for x in range(n-1):
+            ze = ze + '0'
+        start = '1' + ze
+        end = start + '0'
+        arr = range(int(start),int(end))
+        processing(n,sum,arr)            
 
 getCount(2,3)
 getCount(3,3)
