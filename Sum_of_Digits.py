@@ -1,4 +1,3 @@
-
 def sum(i):
     sum = 0 
     for x in range(len(str(i))):
@@ -18,3 +17,5 @@ def sumDigits(no):
 print(sumDigits(128376237621))
 sum(128376237621)
 getSum("128376237621")
+
+
