@@ -19,7 +19,7 @@ def isPalindrom_fifth(s):        #### for numbers only ####
     else:
         print("Not a palindrome!")        
 
-def version_one(i):                 #### Un-Optimized way Strings only####
+def isPalindrom_one(i):                 #### Un-Optimized way Strings only####
     y = i 
     z = [x for x in i]
     a = [x for x in y]
@@ -35,7 +35,6 @@ def isPalindrome_second(str):               #### Un-Optimized way ####
 			return False
 	return True
 
-
 def isPalindrom_fourth(s):             #### Un-Optimized way Strings only ####
     w = ""
     for i in s:
@@ -48,7 +47,7 @@ def isPalindrom_fourth(s):             #### Un-Optimized way Strings only ####
 
 s = "malayalam"
 
-version_one(s)
+isPalindrom_one(s)
 ans = isPalindrome(s)
 answer = isPalindrome_second(s)
 anss = isPalindrome_third(s)
