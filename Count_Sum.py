@@ -9,6 +9,8 @@ Output: 5
 Explanation: Numbers are 14, 23, 32, 41 and 50
 # """
 
+import math
+
 def processing(n,sum,arr):
     temp = 0
     final = [] 
@@ -28,17 +30,14 @@ def processing(n,sum,arr):
 
 def getCount(n,sum):
     arr = [] 
-    ze = ""
     if n == 2:
         arr = range(11,100)
         processing(n,sum,arr)    
     else: 
-        for x in range(n-1):
-            ze = ze + '0'
-        start = '1' + ze
-        end = start + '0'
+        start = math.pow(10,n-1)
+        end = start * 10 
         arr = range(int(start),int(end))
-        processing(n,sum,arr)            
+        processing(n,sum,arr)
 
 getCount(2,3)
 getCount(3,3)
