@@ -1,1 +1,1 @@
-Competitive Programming Basics
+Happy Coding :)
