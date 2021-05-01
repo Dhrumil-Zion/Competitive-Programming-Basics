@@ -1,8 +1,22 @@
 ## https://www.hackerrank.com/challenges/save-the-prisoner/problem
 
-total_num = 57109959
-total_candy = 451440582
-starting_point = 4188603
+
+## final code 
+
+total_num = 4
+total_candy = 3
+starting_point = 2
+
+ans = ( starting_point + total_candy - 1 )%total_num
+if ans == 0:
+    ans = total_num
+print( ans )
+
+## not all test cases are covered 
+
+total_num = 4
+total_candy = 3
+starting_point = 2
 
 
 print((starting_point+total_candy%total_num)-1)
