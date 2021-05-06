@@ -12,11 +12,9 @@ Explain : 2 for 1 , 0 for 2 , 1 for 3 , 2 for 4
 
 
 def frequencycount(A,N):
-        a = []
-        for x in range(1,N + 1):
-            a.append(A.count(x))
-        for y in a:
-            print(y,end=" ")
+    a = [A.count(x) for x in range(1,N + 1)]
+    for y in a:
+        print(y,end=" ")
 
 arr =[2,3,2,3,5]
 frequencycount(arr,5)
