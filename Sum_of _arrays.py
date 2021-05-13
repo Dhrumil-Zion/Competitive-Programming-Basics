@@ -8,9 +8,7 @@ print ('Sum of the array is ',ans)
 
 
 i = [1,2,3,4]
-add = 0
-for x in i:
-    add = add + int(x)
-print(add)    
+add = sum(int(x) for x in i)
+print(add)
 print(sum(i))                   #easies plus optimized method
 
