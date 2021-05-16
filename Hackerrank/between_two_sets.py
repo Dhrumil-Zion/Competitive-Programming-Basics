@@ -1,5 +1,4 @@
-def getTotalX(a, b):
-    
+def getTotalX(a, b):    
     pre = []
     prepre = []
     lis = [x for x in range(a[-1],b[0]+1)]
@@ -19,3 +18,7 @@ def getTotalX(a, b):
         if c==len(b):
             s+=1        
     return s
+    
+a = [2,4]
+b = [16,32,96]
+getTotalX(a,b)    

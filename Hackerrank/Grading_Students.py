@@ -9,3 +9,6 @@ def gradingStudents(grades):
         if (t - temp) < 3:
             grades[x]=t
     return grades  
+    
+grades = [73,67,38,33]
+print(gradingStudents(grades))
