@@ -13,31 +13,31 @@ import math
 
 def processing(n,sum,arr):
     temp = 0
-    final = [] 
+    final = []
     t = 0
     for y in arr:
         t = y
-        for x in range(n):
-            temp = temp + (int(t)%10)
+        for _ in range(n):
+            temp += int(t)%10
             t = int(t/10)
-        t = 0    
+        t = 0
         if temp == sum:
             final.append(y)
-        temp = 0        
+        temp = 0
     print(final)
     print("Count  = {}".format(len(final)))
     final.clear()        
 
 def getCount(n,sum):
-    arr = [] 
+    arr = []
     if n == 2:
         arr = range(11,100)
-        processing(n,sum,arr)    
     else: 
         start = math.pow(10,n-1)
-        end = start * 10 
+        end = start * 10
         arr = range(int(start),int(end))
-        processing(n,sum,arr)
+
+    processing(n,sum,arr)
 
 getCount(2,3)
 getCount(3,3)

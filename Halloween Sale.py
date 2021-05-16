@@ -4,21 +4,21 @@ def howManyGames(p, d, m, s):
     deduction = d
     minprice = m
     c=0
-    while(1):
+    while 1:
         budget = budget - price
         if budget>=0:
             price = price -deduction
             if price>minprice:
                 c+=1
                 continue
-            elif price<=minprice:
+            else:
                 if budget >= price-minprice:
                     c+=1
                     price = minprice
                 else:
-                    break    
+                    break
         else:
-            break        
+            break
     print(c)        
 
 p = 20 

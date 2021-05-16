@@ -3,9 +3,7 @@ def isPalindrome(s):                #### Optimized way ####
 
 def isPalindrome_third(s):           #### Optimized way ####
 	rev = ''.join(reversed(s))
-	if (s == rev):
-		return True
-	return False
+	return (s == rev)
 
 def isPalindrom_fifth(s):        #### for numbers only ####
     temp=s
@@ -30,10 +28,7 @@ def isPalindrom_one(i):                 #### Un-Optimized way Strings only####
         print("Not")  
 
 def isPalindrome_second(str):               #### Un-Optimized way ####
-	for i in range(0, int(len(str)/2)): 
-		if str[i] != str[len(str)-i-1]:
-			return False
-	return True
+	return all(str[i] == str[len(str)-i-1] for i in range(int(len(str)/2)))
 
 def isPalindrom_fourth(s):             #### Un-Optimized way Strings only ####
     w = ""
@@ -43,7 +38,6 @@ def isPalindrom_fourth(s):             #### Un-Optimized way Strings only ####
         print("Yes")
     else:
         print("No")
-
 
 s = "malayalam"
 

@@ -1,18 +1,8 @@
 arr = [1 ,2, 3, 4, 5, 4, 3, 2, 1, 3, 4]
-my_dict = {}
 uni = set(arr)
-for x in uni:
-    my_dict[x] = arr.count(x)
-
+my_dict = {x: arr.count(x) for x in uni}
 my_dict.fo
 print(my_dict.values())
-
-
-
-
-
-
-
 
 
 

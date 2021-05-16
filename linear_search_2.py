@@ -5,4 +5,3 @@ while T:
     g = sum(arr[c] > x for c in range(n))
     print(g)
     T-=1
-    

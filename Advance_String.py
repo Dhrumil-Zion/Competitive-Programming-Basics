@@ -12,10 +12,9 @@ def subString(s):
     for x in final:
         length = len(x)
         disticnt_char = len(set(x))
-        eq = eq + pow(length,disticnt_char)%100000007
+        eq += pow(length,disticnt_char)%100000007
 
     return int(eq%100000007)
-  
 
 s = "ddddddddddddddddddeeeeeeeeeeeeeeeeeeiiiiiiiiiiiiiiiiiiyyyyyyyyyyyyyyyyyyiyd"
 ans = subString(s)

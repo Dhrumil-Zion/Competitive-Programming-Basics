@@ -8,10 +8,10 @@ def weightedUniformStrings(s, queries):
         k=0
         r = x+1
         while k!=s.count(s[x]):
-            temp =temp+r
-            z.append(temp) 
+            temp += r
+            z.append(temp)
             k+=1
-        temp=0    
+        temp=0
     print(z)      
 
 s = "aabbbb"

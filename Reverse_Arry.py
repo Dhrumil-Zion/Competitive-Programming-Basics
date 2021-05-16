@@ -1,12 +1,10 @@
 ######################################### For Numbers Only #########################################
 
 def reverseNumber(s):
-    st = 0 
-    en = -1 
-    for x in range(int(len(s)/2)):
+    en = -1
+    for st, _ in enumerate(range(int(len(s)/2))):
         s[st],s[en] = s[en],s[st]
-        st = st + 1
-        en = en - 1
+        en -= 1
     print(s)     
 
 ######################################### For Strings Only #########################################
@@ -14,10 +12,10 @@ def reverseNumber(s):
 def reverseWord(s):
     j = -1
     k = ""
-    for x in range(len(s)-1):
-        k = k + s[j]
-        j = j - 1
-    k = k + s[-len(s)]
+    for _ in range(len(s)-1):
+        k += s[j]
+        j -= 1
+    k += s[-len(s)]
     print(k) 
 
 def reverse(s): 

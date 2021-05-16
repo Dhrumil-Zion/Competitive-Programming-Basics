@@ -21,10 +21,7 @@ if __name__ == '__main__':
 
     k = int(nk[1])
 
-    contests = []
-
-    for _ in range(n):
-        contests.append(list(map(int, input().rstrip().split())))
+    contests = [list(map(int, input().rstrip().split())) for _ in range(n)]
 
     result = luckBalance(k, contests)
 
