@@ -23,18 +23,43 @@
 |  18  | [Day Of The Programmer](https://www.hackerrank.com/challenges/day-of-the-programmer/problem) | [Solution.py](https://github.com/Dhrumil-Zion/Competitive-Programming-Basics/blob/main/Hackerrank/Day_Of_Programmer.py) | [Hackkerank](https://www.hackerrank.com/) | Python
 |  19  | [Bill Division](https://www.hackerrank.com/challenges/bon-appetit/problem) | [Solution.py](https://github.com/Dhrumil-Zion/Competitive-Programming-Basics/blob/main/Hackerrank/Bill_division.py) | [Hackkerank](https://www.hackerrank.com/) | Python
 |  20  | [Sales By Match](https://www.hackerrank.com/challenges/sock-merchant/problem) | [Solution.py](https://github.com/Dhrumil-Zion/Competitive-Programming-Basics/blob/main/Hackerrank/Sales_by_match.py) | [Hackkerank](https://www.hackerrank.com/) | Python
+|  21  | [Drawing Book](https://www.hackerrank.com/challenges/drawing-book/problem) | [Solution.py](link2) | [Hackkerank](https://www.hackerrank.com/) | Python
+|  22  | [Counting Valleys](https://www.hackerrank.com/challenges/counting-valleys/problem) | [Solution.py](link2) | [Hackkerank](https://www.hackerrank.com/) | Python
+|  23  | [Electronics Shop](https://www.hackerrank.com/challenges/electronics-shop/problem) | [Solution.py](link2) | [Hackkerank](https://www.hackerrank.com/) | Python
+|  24  | [Cats and a Mouse](https://www.hackerrank.com/challenges/cats-and-a-mouse/problem) | [Solution.py](link2) | [Hackkerank](https://www.hackerrank.com/) | Python
+|  25  | [Picking Numbers](https://www.hackerrank.com/challenges/picking-numbers/problem) | [Solution.py](link2) | [Hackkerank](https://www.hackerrank.com/) | Python
+|  26  | [The Hurdle Race](https://www.hackerrank.com/challenges/the-hurdle-race/problem) | [Solution.py](link2) | [Hackkerank](https://www.hackerrank.com/) | Python
+|  27  | [Designer PDF Viewer](https://www.hackerrank.com/challenges/designer-pdf-viewer/problem) | [Solution.py](link2) | [Hackkerank](https://www.hackerrank.com/) | Python
+|  28  | [Utopian Tree](https://www.hackerrank.com/challenges/utopian-tree/problem) | [Solution.py](link2) | [Hackkerank](https://www.hackerrank.com/) | Python
+|  29  | [Angry Professor](https://www.hackerrank.com/challenges/angry-professor/problem) | [Solution.py](link2) | [Hackkerank](https://www.hackerrank.com/) | Python
+|  30  | [Beautiful Days at the Movies](https://www.hackerrank.com/challenges/beautiful-days-at-the-movies/problem) | [Solution.py](link2) | [Hackkerank](https://www.hackerrank.com/) | Python
+|  31  | [Viral Advertising](https://www.hackerrank.com/challenges/strange-advertising/problem) | [Solution.py](link2) | [Hackkerank](https://www.hackerrank.com/) | Python
+|  32  | [Save the Prisoner](https://www.hackerrank.com/challenges/save-the-prisoner/problem) | [Solution.py](link2) | [Hackkerank](https://www.hackerrank.com/) | Python
+|  33  | [Circular Array Rotation](https://www.hackerrank.com/challenges/circular-array-rotation/problem) | [Solution.py](link2) | [Hackkerank](https://www.hackerrank.com/) | Python
+|  34  | [Find Digits](https://www.hackerrank.com/challenges/find-digits/problem) | [Solution.py](link2) | [Hackkerank](https://www.hackerrank.com/) | Python
+|  35  | [Extra Long Factorials](https://www.hackerrank.com/challenges/extra-long-factorials/problem) | [Solution.py](link2) | [Hackkerank](https://www.hackerrank.com/) | Python
+|  36  | [Sherlock and Squares](https://www.hackerrank.com/challenges/sherlock-and-squares/problem) | [Solution.py](link2) | [Hackkerank](https://www.hackerrank.com/) | Python
+|  37  | [Library Fine](https://www.hackerrank.com/challenges/library-fine/problem) | [Solution.py](link2) | [Hackkerank](https://www.hackerrank.com/) | Python
+|  38  | [Cut the sticks](https://www.hackerrank.com/challenges/cut-the-sticks/problem) | [Solution.py](link2) | [Hackkerank](https://www.hackerrank.com/) | Python
+|  39  | [Repeated String](https://www.hackerrank.com/challenges/repeated-string/problem) | [Solution.py](link2) | [Hackkerank](https://www.hackerrank.com/) | Python
+|  40  | [Jumping on the Clouds](https://www.hackerrank.com/challenges/jumping-on-the-clouds/problem) | [Solution.py](link2) | [Hackkerank](https://www.hackerrank.com/) | Python
+|  41  | [Equalize the Array](https://www.hackerrank.com/challenges/equality-in-a-array/problem) | [Solution.py](link2) | [Hackkerank](https://www.hackerrank.com/) | Python
+|  42  | [Beautiful Triplets](https://www.hackerrank.com/challenges/beautiful-triplets/problem) | [Solution.py](link2) | [Hackkerank](https://www.hackerrank.com/) | Python
+|  43  | [Minimum Distances](https://www.hackerrank.com/challenges/minimum-distances/problem) | [Solution.py](link2) | [Hackkerank](https://www.hackerrank.com/) | Python
+|  44  | [Halloween Sale](https://www.hackerrank.com/challenges/halloween-sale/problem) | [Solution.py](link2) | [Hackkerank](https://www.hackerrank.com/) | Python
+|  45  | [The Time in Words](https://www.hackerrank.com/challenges/the-time-in-words/problem) | [Solution.py](link2) | [Hackkerank](https://www.hackerrank.com/) | Python
+
+
 
 <!--
-|  21  | []() | [Hackkerank](link2) | [Hackkerank](https://www.hackerrank.com/) | Python
-|  22  | []() | [Hackkerank](link2) | [Hackkerank](https://www.hackerrank.com/) | Python
-|  23  | []() | [Hackkerank](link2) | [Hackkerank](https://www.hackerrank.com/) | Python
-|  24  | []() | [Hackkerank](link2) | [Hackkerank](https://www.hackerrank.com/) | Python
-|  25  | []() | [Hackkerank](link2) | [Hackkerank](https://www.hackerrank.com/) | Python
-|  26  | []() | [Hackkerank](link2) | [Hackkerank](https://www.hackerrank.com/) | Python
-|  27  | []() | [Hackkerank](link2) | [Hackkerank](https://www.hackerrank.com/) | Python
-|  28  | []() | [Hackkerank](link2) | [Hackkerank](https://www.hackerrank.com/) | Python
+|  46  | []() | [Solution.py](link2) | [Hackkerank](https://www.hackerrank.com/) | Python
+|  46  | []() | [Solution.py](link2) | [Hackkerank](https://www.hackerrank.com/) | Python
+|  46  | []() | [Solution.py](link2) | [Hackkerank](https://www.hackerrank.com/) | Python
+|  46  | []() | [Solution.py](link2) | [Hackkerank](https://www.hackerrank.com/) | Python
+|  46  | []() | [Solution.py](link2) | [Hackkerank](https://www.hackerrank.com/) | Python
+|  46  | []() | [Solution.py](link2) | [Hackkerank](https://www.hackerrank.com/) | Python
+|  46  | []() | [Solution.py](link2) | [Hackkerank](https://www.hackerrank.com/) | Python
+|  46  | []() | [Solution.py](link2) | [Hackkerank](https://www.hackerrank.com/) | Python
 --!>
-
-
 
 
