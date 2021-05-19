@@ -48,16 +48,49 @@
 |  43  | [Minimum Distances](https://www.hackerrank.com/challenges/minimum-distances/problem) | [Solution.py](https://github.com/Dhrumil-Zion/Competitive-Programming-Basics/blob/main/Hackerrank/Minimum_Distances.py) | [Hackkerank](https://www.hackerrank.com/) | Python
 |  44  | [Halloween Sale](https://www.hackerrank.com/challenges/halloween-sale/problem) | [Solution.py](https://github.com/Dhrumil-Zion/Competitive-Programming-Basics/blob/main/Hackerrank/Halloween_Sale.py) | [Hackkerank](https://www.hackerrank.com/) | Python
 |  45  | [The Time in Words](https://www.hackerrank.com/challenges/the-time-in-words/problem) | [Solution.py](https://github.com/Dhrumil-Zion/Competitive-Programming-Basics/blob/main/Hackerrank/The_Time_in_Words.py) | [Hackkerank](https://www.hackerrank.com/) | Python
+|  47  | [Service Lane](https://www.hackerrank.com/challenges/service-lane/problem) | [Solution.py](link2) | [Hackkerank](https://www.hackerrank.com/) | Python
+|  48  | [Cavity Map](https://www.hackerrank.com/challenges/cavity-map/problem) | [Solution.py](link2) | [Hackkerank](https://www.hackerrank.com/) | Python
+|  49  | [Intro to Tutorial Challenges](https://www.hackerrank.com/challenges/tutorial-intro/problem) | [Solution.py](link2) | [Hackkerank](https://www.hackerrank.com/) | Python
+|  50  | [CamelCase](https://www.hackerrank.com/challenges/camelcase/problem) | [Solution.py](link2) | [Hackkerank](https://www.hackerrank.com/) | Python
+|  51  | [Insertion Sort - Part 1](https://www.hackerrank.com/challenges/insertionsort1/problem) | [Solution.py](link2) | [Hackkerank](https://www.hackerrank.com/) | Python
+|  52  | [Insertion Sort - Part 2](https://www.hackerrank.com/challenges/insertionsort2/problem) | [Solution.py](link2) | [Hackkerank](https://www.hackerrank.com/) | Python
+|  53  | [Correctness and the Loop Invariant](https://www.hackerrank.com/challenges/correctness-invariant/problem) | [Solution.py](link2) | [Hackkerank](https://www.hackerrank.com/) | Python
+|  54  | [Mars Exploration](https://www.hackerrank.com/challenges/mars-exploration/problem) | [Solution.py](link2) | [Hackkerank](https://www.hackerrank.com/) | Python
+|  55  | [Running Time of Algorithms](https://www.hackerrank.com/challenges/runningtime/problem) | [Solution.py](link2) | [Hackkerank](https://www.hackerrank.com/) | Python
+|  56  | [Quicksort 1 - Partition](https://www.hackerrank.com/challenges/quicksort1/problem) | [Solution.py](link2) | [Hackkerank](https://www.hackerrank.com/) | Python
+|  57  | [Pangrams](https://www.hackerrank.com/challenges/pangrams/problem) | [Solution.py](link2) | [Hackkerank](https://www.hackerrank.com/) | Python
+|  58  | [Funny String](https://www.hackerrank.com/challenges/funny-string/problem) | [Solution.py](link2) | [Hackkerank](https://www.hackerrank.com/) | Python
+|  59  | [Counting Sort 1](https://www.hackerrank.com/challenges/countingsort1/problem) | [Solution.py](link2) | [Hackkerank](https://www.hackerrank.com/) | Python
+|  60  | [Counting Sort 2](https://www.hackerrank.com/challenges/countingsort2/problem) | [Solution.py](link2) | [Hackkerank](https://www.hackerrank.com/) | Python
 
-<!--
-|  46  | []() | [Solution.py](link2) | [Hackkerank](https://www.hackerrank.com/) | Python
-|  46  | []() | [Solution.py](link2) | [Hackkerank](https://www.hackerrank.com/) | Python
-|  46  | []() | [Solution.py](link2) | [Hackkerank](https://www.hackerrank.com/) | Python
-|  46  | []() | [Solution.py](link2) | [Hackkerank](https://www.hackerrank.com/) | Python
-|  46  | []() | [Solution.py](link2) | [Hackkerank](https://www.hackerrank.com/) | Python
-|  46  | []() | [Solution.py](link2) | [Hackkerank](https://www.hackerrank.com/) | Python
-|  46  | []() | [Solution.py](link2) | [Hackkerank](https://www.hackerrank.com/) | Python
-|  46  | []() | [Solution.py](link2) | [Hackkerank](https://www.hackerrank.com/) | Python
---!>
+
+<!-- |  61  | []() | [Solution.py](link2) | [Hackkerank](https://www.hackerrank.com/) | Python
+|  62  | []() | [Solution.py](link2) | [Hackkerank](https://www.hackerrank.com/) | Python
 
 
+
+|  54  | []() | [Solution.py](link2) | [Hackkerank](https://www.hackerrank.com/) | Python
+|  54  | []() | [Solution.py](link2) | [Hackkerank](https://www.hackerrank.com/) | Python
+|  54  | []() | [Solution.py](link2) | [Hackkerank](https://www.hackerrank.com/) | Python
+|  54  | []() | [Solution.py](link2) | [Hackkerank](https://www.hackerrank.com/) | Python
+|  54  | []() | [Solution.py](link2) | [Hackkerank](https://www.hackerrank.com/) | Python
+|  54  | []() | [Solution.py](link2) | [Hackkerank](https://www.hackerrank.com/) | Python
+|  54  | []() | [Solution.py](link2) | [Hackkerank](https://www.hackerrank.com/) | Python
+|  54  | []() | [Solution.py](link2) | [Hackkerank](https://www.hackerrank.com/) | Python
+|  54  | []() | [Solution.py](link2) | [Hackkerank](https://www.hackerrank.com/) | Python
+|  54  | []() | [Solution.py](link2) | [Hackkerank](https://www.hackerrank.com/) | Python
+|  54  | []() | [Solution.py](link2) | [Hackkerank](https://www.hackerrank.com/) | Python
+|  54  | []() | [Solution.py](link2) | [Hackkerank](https://www.hackerrank.com/) | Python
+|  54  | []() | [Solution.py](link2) | [Hackkerank](https://www.hackerrank.com/) | Python
+|  54  | []() | [Solution.py](link2) | [Hackkerank](https://www.hackerrank.com/) | Python
+|  54  | []() | [Solution.py](link2) | [Hackkerank](https://www.hackerrank.com/) | Python
+|  54  | []() | [Solution.py](link2) | [Hackkerank](https://www.hackerrank.com/) | Python
+|  54  | []() | [Solution.py](link2) | [Hackkerank](https://www.hackerrank.com/) | Python
+|  54  | []() | [Solution.py](link2) | [Hackkerank](https://www.hackerrank.com/) | Python
+|  54  | []() | [Solution.py](link2) | [Hackkerank](https://www.hackerrank.com/) | Python
+|  54  | []() | [Solution.py](link2) | [Hackkerank](https://www.hackerrank.com/) | Python
+|  54  | []() | [Solution.py](link2) | [Hackkerank](https://www.hackerrank.com/) | Python
+|  54  | []() | [Solution.py](link2) | [Hackkerank](https://www.hackerrank.com/) | Python
+
+
+ -->
