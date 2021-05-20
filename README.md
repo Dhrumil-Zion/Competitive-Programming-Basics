@@ -62,35 +62,33 @@
 |  58  | [Funny String](https://www.hackerrank.com/challenges/funny-string/problem) | [Solution.py](https://github.com/Dhrumil-Zion/Competitive-Programming-Basics/blob/main/Hackerrank/Funny_String.py) | [Hackkerank](https://www.hackerrank.com/) | Python
 |  59  | [Counting Sort 1](https://www.hackerrank.com/challenges/countingsort1/problem) | [Solution.py](https://github.com/Dhrumil-Zion/Competitive-Programming-Basics/blob/main/Hackerrank/Counting_Sort_1.py) | [Hackkerank](https://www.hackerrank.com/) | Python
 |  60  | [Counting Sort 2](https://www.hackerrank.com/challenges/countingsort2/problem) | [Solution.py](https://github.com/Dhrumil-Zion/Competitive-Programming-Basics/blob/main/Hackerrank/Counting_Sort_2.py) | [Hackkerank](https://www.hackerrank.com/) | Python
+|  61  | [Alternating Characters](https://www.hackerrank.com/challenges/alternating-characters/problem) | [Solution.py](link2) | [Hackkerank](https://www.hackerrank.com/) | Python
+|  62  | [Beautiful Binary String](https://www.hackerrank.com/challenges/beautiful-binary-string/problem) | [Solution.py](link2) | [Hackkerank](https://www.hackerrank.com/) | Python
+|  63  | [Find the Median](https://www.hackerrank.com/challenges/find-the-median/problem) | [Solution.py](link2) | [Hackkerank](https://www.hackerrank.com/) | Python
+|  64  | [Two Strings](https://www.hackerrank.com/challenges/two-strings/problem) | [Solution.py](link2) | [Hackkerank](https://www.hackerrank.com/) | Python
+|  65  | [String Construction](https://www.hackerrank.com/challenges/string-construction/problem) | [Solution.py](link2) | [Hackkerank](https://www.hackerrank.com/) | Python
+|  66  | [Sherlock and the Valid String](https://www.hackerrank.com/challenges/sherlock-and-valid-string/problem) | [Solution.py](link2) | [Hackkerank](https://www.hackerrank.com/) | Python
+|  67  | [Sherlock and Array](https://www.hackerrank.com/challenges/sherlock-and-array/problem) | [Solution.py](link2) | [Hackkerank](https://www.hackerrank.com/) | Python
+|  68  | [Luck Balance](https://www.hackerrank.com/challenges/luck-balance/problem) | [Solution.py](link2) | [Hackkerank](https://www.hackerrank.com/) | Python
+|  69  | [Maximum Perimeter Triangle](https://www.hackerrank.com/challenges/maximum-perimeter-triangle/problem) | [Solution.py](link2) | [Hackkerank](https://www.hackerrank.com/) | Python
+|  70  | [Mark and Toys](https://www.hackerrank.com/challenges/mark-and-toys/problem) | [Solution.py](link2) | [Hackkerank](https://www.hackerrank.com/) | Python
+|  71  | [Permuting Two Arrays](https://www.hackerrank.com/challenges/two-arrays/problem) | [Solution.py](link2) | [Hackkerank](https://www.hackerrank.com/) | Python
+|  72  | [Gaming Array](https://www.hackerrank.com/challenges/an-interesting-game-1/problem) | [Solution.py](link2) | [Hackkerank](https://www.hackerrank.com/) | Python
+|  73  | [Lonely Integer](https://www.hackerrank.com/challenges/lonely-integer/problem) | [Solution.py](link2) | [Hackkerank](https://www.hackerrank.com/) | Python
+|  74  | [Flipping bits](https://www.hackerrank.com/challenges/flipping-bits/problem) | [Solution.py](link2) | [Hackkerank](https://www.hackerrank.com/) | Python
+|  75  | [XOR Strings](https://www.hackerrank.com/challenges/strings-xor/problem) | [Solution.py](link2) | [Hackkerank](https://www.hackerrank.com/) | Python
+|  76  | [Smart Number](https://www.hackerrank.com/challenges/smart-number/problem) | [Solution.py](link2) | [Hackkerank](https://www.hackerrank.com/) | Python
 
 
-<!-- |  61  | []() | [Solution.py](link2) | [Hackkerank](https://www.hackerrank.com/) | Python
-|  62  | []() | [Solution.py](link2) | [Hackkerank](https://www.hackerrank.com/) | Python
 
 
-
+<!--
+|  77  | []() | [Solution.py](link2) | [Hackkerank](https://www.hackerrank.com/) | Python
+|  78  | []() | [Solution.py](link2) | [Hackkerank](https://www.hackerrank.com/) | Python
+-->
+<!-- 
 |  54  | []() | [Solution.py](link2) | [Hackkerank](https://www.hackerrank.com/) | Python
 |  54  | []() | [Solution.py](link2) | [Hackkerank](https://www.hackerrank.com/) | Python
 |  54  | []() | [Solution.py](link2) | [Hackkerank](https://www.hackerrank.com/) | Python
-|  54  | []() | [Solution.py](link2) | [Hackkerank](https://www.hackerrank.com/) | Python
-|  54  | []() | [Solution.py](link2) | [Hackkerank](https://www.hackerrank.com/) | Python
-|  54  | []() | [Solution.py](link2) | [Hackkerank](https://www.hackerrank.com/) | Python
-|  54  | []() | [Solution.py](link2) | [Hackkerank](https://www.hackerrank.com/) | Python
-|  54  | []() | [Solution.py](link2) | [Hackkerank](https://www.hackerrank.com/) | Python
-|  54  | []() | [Solution.py](link2) | [Hackkerank](https://www.hackerrank.com/) | Python
-|  54  | []() | [Solution.py](link2) | [Hackkerank](https://www.hackerrank.com/) | Python
-|  54  | []() | [Solution.py](link2) | [Hackkerank](https://www.hackerrank.com/) | Python
-|  54  | []() | [Solution.py](link2) | [Hackkerank](https://www.hackerrank.com/) | Python
-|  54  | []() | [Solution.py](link2) | [Hackkerank](https://www.hackerrank.com/) | Python
-|  54  | []() | [Solution.py](link2) | [Hackkerank](https://www.hackerrank.com/) | Python
-|  54  | []() | [Solution.py](link2) | [Hackkerank](https://www.hackerrank.com/) | Python
-|  54  | []() | [Solution.py](link2) | [Hackkerank](https://www.hackerrank.com/) | Python
-|  54  | []() | [Solution.py](link2) | [Hackkerank](https://www.hackerrank.com/) | Python
-|  54  | []() | [Solution.py](link2) | [Hackkerank](https://www.hackerrank.com/) | Python
-|  54  | []() | [Solution.py](link2) | [Hackkerank](https://www.hackerrank.com/) | Python
-|  54  | []() | [Solution.py](link2) | [Hackkerank](https://www.hackerrank.com/) | Python
-|  54  | []() | [Solution.py](link2) | [Hackkerank](https://www.hackerrank.com/) | Python
-|  54  | []() | [Solution.py](link2) | [Hackkerank](https://www.hackerrank.com/) | Python
-
 
  -->
