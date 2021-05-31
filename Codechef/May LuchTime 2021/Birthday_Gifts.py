@@ -6,10 +6,10 @@ while t!=0:
     turn =0
     chef_bag = []
     twin_bag =[]
-    for c in range(2*toal_turns_for_each+1):
-        if c == (2*toal_turns_for_each - 2):
-            twin_bag.append(gift.pop(gift.index(max(gift))))
-            twin_bag.append(gift.pop(gift.index(max(gift))))
+    for c in range(2*toal_turns_for_each):
+        if c == (2*toal_turns_for_each - 1):
+            twin_bag.append(gift[0])
+            twin_bag.append(gift[1])
             break
         if turn%2==0:
             chef_bag.append(gift.pop(gift.index(max(gift))))
@@ -19,10 +19,10 @@ while t!=0:
     turn =0
     chef_bag_2 = []
     twin_bag_2 =[]
-    for c in range(2*toal_turns_for_each+1):
-        if c == (2*toal_turns_for_each - 2):
-            chef_bag_2.append(gift.pop(gift.index(max(gift))))
-            chef_bag_2.append(gift.pop(gift.index(max(gift))))
+    for c in range(2*toal_turns_for_each):
+        if c == (2*toal_turns_for_each - 1):
+            chef_bag_2.append(gift2[0])
+            chef_bag_2.append(gift2[1])
             break
         if turn%2==0:
             twin_bag_2.append(gift2.pop(gift2.index(max(gift2))))
