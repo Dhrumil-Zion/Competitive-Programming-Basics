@@ -1,4 +1,5 @@
-## Brainstorming, Learning, Debugging, Exploring :)
+## Brainstorming, Learning, Debugging, Redefining, embracing, Exploring :)
+
 
 
 | No | Problem | Solution | Source | Language |
