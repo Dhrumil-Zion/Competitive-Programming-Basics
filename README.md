@@ -1,4 +1,4 @@
-## Brainstorming, Learning, Debugging, Redefining, embracing, Exploring :)
+## Brainstorming, Learning, Debugging, Redefining, Embracing, Exploring :)
 
 
 
